@@ -1,7 +1,7 @@
-# **sena-base-info-2021 v2.0.0**
+# **Desarrollo de videojuegos y entornos interactivos**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED-BASE-INFO-2021/](https://ecored-sena.github.io/ECORED-BASE-INFO-2021/)
+[https://ecored-bogota-dc.github.io/INFO_DESARROLLO_VIDEOJUEGOS_INTERACTIVOS/](https://ecored-bogota-dc.github.io/INFO_DESARROLLO_VIDEOJUEGOS_INTERACTIVOS/)
 
 #
